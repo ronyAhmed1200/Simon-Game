@@ -1,10 +1,10 @@
 # Simon-Game
 
-## it is an awesome simon game which is so much fun to play.
+ it is an awesome simon game which is so much fun to play.
 
-### Take the challenge
+## Take the challenge
 
-Let's take a challenge: 
+Do you love challenge? Let's do a challenge: 
  - [play the game](https://ronyahmed1200.github.io/Simon-Game/)
  - and score as much as you can
  - My highest score in the game is 9.
