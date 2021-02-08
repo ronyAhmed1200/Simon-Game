@@ -2,7 +2,14 @@
 
 ## it is an awesome simon game which is so much fun to play.
 
-Let's take a challenge how much can you score 
+### Take the challenge
+
+Let's take a challenge: 
+ - [play the game](https://ronyahmed1200.github.io/Simon-Game/)
+ - and score as much as you can
+ - My highest score in the game is 9.
+ - yeah, I couldn't score more than 9.
+ - Can you score >= 10? 
 
 ### I have made it with -
     *html
