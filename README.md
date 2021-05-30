@@ -1,5 +1,7 @@
 # Simon-Game
 
+![imgae-of-our-simon-game](https://imgur.com/Rw8luhV.png)
+
  it is an awesome simon game which is so much fun to play.
 
 ## Take the challenge
